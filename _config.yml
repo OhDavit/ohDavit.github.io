@@ -28,9 +28,9 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: dave_ohan
   card: summary
-logo: logo.png
+logo: avatar.png
 social:
   name: OhDavit
   links:

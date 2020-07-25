@@ -126,7 +126,7 @@ You can create a file `_includes/custom-head.html` in your repository, and add a
 You can create a file `_data/navigation.yml` to configure links to some pages. For example,
 
 ```yml
-- title: About
+- title: About me
   url: /about/
 - title: Categories
   url: /categories/
