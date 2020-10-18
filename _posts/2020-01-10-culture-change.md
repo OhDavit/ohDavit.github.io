@@ -5,8 +5,8 @@ author: Davit Ohanyan
 tags: [Culture, Team Culture]
 ---
 
-I was driving to supermarket and while waiting under traffic light noticed that someone threw cigaret from the van. By approaching a bit closer I noticed that the van belonged to the company which was responsible for keeping city clean! I was really shocked: how can one do actions which are completely opposite to her professions' principles; in this case keeping the city clean.
-In a world of software development, coding standards, test coverage and team's disciplinary should be part of company's, or at least part of the team's culture.
+I was driving to supermarket and while was waiting under traffic light noticed that someone threw cigaret from the van. By approaching a bit closer I noticed that the van belonged to the company which was responsible for keeping city clean! I was really shocked: how can one do actions which are completely opposite to her professions' principles; in this case keeping the city clean.
+In a world of software development coding standards, test coverage and team's disciplinary should be part of company's, or at least part of the team's culture.
 
 Below I am going to present a framework how to make automated testing as part of the team culture. Please note that testing topic is just an example here and the framework can be used for other topics/ideas as well.
 
