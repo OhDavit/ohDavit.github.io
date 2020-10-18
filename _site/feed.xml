@@ -1,190 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-07-27T01:28:10+02:00</updated><id>http://localhost:4000/feed.xml</id><author><name>Ohanyan Davit</name></author><entry><title type="html">Incompleteness theorems</title><link href="http://localhost:4000/2020/07/27/hello-world.html" rel="alternate" type="text/html" title="Incompleteness theorems" /><published>2020-07-27T00:16:53+02:00</published><updated>2020-07-27T00:16:53+02:00</updated><id>http://localhost:4000/2020/07/27/hello-world</id><content type="html" xml:base="http://localhost:4000/2020/07/27/hello-world.html">&lt;p&gt;Everyone has a favourite literature author, music composer, philosopher or scientist. In this post I am going to tell about my favourite matematician: Kurt Gödel and about his famous incompleteness theorems.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-10-18T14:48:48+02:00</updated><id>http://localhost:4000/feed.xml</id><author><name>Ohanyan Davit</name></author><entry><title type="html">Incompleteness theorems</title><link href="http://localhost:4000/2020/07/27/godel.html" rel="alternate" type="text/html" title="Incompleteness theorems" /><published>2020-07-27T00:16:53+02:00</published><updated>2020-07-27T00:16:53+02:00</updated><id>http://localhost:4000/2020/07/27/godel</id><content type="html" xml:base="http://localhost:4000/2020/07/27/godel.html">&lt;p&gt;Everyone has a favorite literature author, music composer, philosopher or scientist. In this post I am going to tell about my favorite mathematician: Kurt Gödel and about his famous incompleteness theorems. The idea of these theorems helps me in my personal life and professional carrier to take a break and look into the problems from different angle. It’s quite similar to practicing mindfulness, but mindfulness is separate topic and I am not going to go deep into in this post.
+Before telling the theorems let us revise the concepts like “formal system”, “consistency”, and “completeness”.
+Formal system is a system of axioms equipped with rules of inference, which allow one to generate new theorems. A formal system is complete if for every statement of the language of the system, either the statement or its negation can be proved in the system. A formal system is consistent if there is no statement such that the statement itself and its negation are both proofable in the system.&lt;/p&gt;
 
-&lt;p&gt;Kurt Gödel was ill and mentally unstable. He had a paranoid fear that someone would poison him. He trusted only his wife, and would eat the food she prepared for him or alternatively, she would taste any provided food before he ate it. When she became ill in 1977 and had to be hospitalized for six months, Gödel refused to eat, and eventually died of malnutrition in 1978 at the age of 71 [2]. When he died, he weighed only 30kg.&lt;/p&gt;
+&lt;p&gt;So what Gödel proved is that every system is either incomplete or inconsistent.&lt;br /&gt;
+Based on your beliefs of the system rules you can see/feel something is true, but actually it’s not derived by that rules. Or, it’s also true, that can be cases/ideas which will be impossible to proof with given tools of the system.
+So in order to prove the statement you should come up with new system(you can easily make the statement as axiom).&lt;/p&gt;
 
-&lt;p&gt;So back to incompleteness theorems. But before let me explain you the concepts like “formal system”, “consistency”, and “completeness”. Formal system is a system of axioms equipped with rules of inference, which allow one to generate new theorems. A formal system is complete if for every statement of the language of the system, either the statement or its negation can be derived (i.e., proved) in the system. A formal system is consistent if there is no statement such that the statement itself and its negation are both proofable in the system.&lt;/p&gt;</content><author><name>Davit Ohanyan</name></author><category term="matematician" /><category term="Gödel" /><category term="incompleteness" /><summary type="html">Everyone has a favourite literature author, music composer, philosopher or scientist. In this post I am going to tell about my favourite matematician: Kurt Gödel and about his famous incompleteness theorems.</summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00+02:00</published><updated>2016-05-20T00:00:00+02:00</updated><id>http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+&lt;p&gt;Kurt Gödel was ill and mentally unstable. He had a paranoid fear that someone would poison him. He trusted only his wife, and would eat the food she prepared for him or alternatively, she would taste any provided food before he ate it. When she became ill in 1977 and had to be hospitalized for six months, Gödel refused to eat, and eventually died of malnutrition in 1978 at the age of 71 [2]. When he died, he weighed only 30kg.&lt;/p&gt;</content><author><name>Davit Ohanyan</name></author><category term="mathematician" /><category term="Gödel" /><category term="incompleteness" /><summary type="html">Everyone has a favorite literature author, music composer, philosopher or scientist. In this post I am going to tell about my favorite mathematician: Kurt Gödel and about his famous incompleteness theorems. The idea of these theorems helps me in my personal life and professional carrier to take a break and look into the problems from different angle. It’s quite similar to practicing mindfulness, but mindfulness is separate topic and I am not going to go deep into in this post. Before telling the theorems let us revise the concepts like “formal system”, “consistency”, and “completeness”. Formal system is a system of axioms equipped with rules of inference, which allow one to generate new theorems. A formal system is complete if for every statement of the language of the system, either the statement or its negation can be proved in the system. A formal system is consistent if there is no statement such that the statement itself and its negation are both proofable in the system.</summary></entry><entry><title type="html">Addressing problems in cultural way</title><link href="http://localhost:4000/2020/01/10/culture-change.html" rel="alternate" type="text/html" title="Addressing problems in cultural way" /><published>2020-01-10T00:00:00+01:00</published><updated>2020-01-10T00:00:00+01:00</updated><id>http://localhost:4000/2020/01/10/culture-change</id><content type="html" xml:base="http://localhost:4000/2020/01/10/culture-change.html">&lt;p&gt;I was driving to supermarket and while waiting under traffic light noticed that someone threw cigaret from the van. By approaching a bit closer I noticed that the van belonged to the company which was responsible for keeping city clean! I was really shocked: how can one do actions which are completely opposite to her professions’ principles; in this case keeping the city clean.
+In a world of software development, coding standards, test coverage and team’s disciplinary should be part of company’s, or at least part of the team’s culture.&lt;/p&gt;
 
-&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
+&lt;p&gt;Below I am going to present a framework how to make automated testing as part of the team culture. Please note that testing topic is just an example here and the framework can be used for other topics/ideas as well.&lt;/p&gt;
 
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 1.&lt;/strong&gt; First step is to deconstruct existing approach/culture.
+Particularly, when engineers don’t write tests usually they say we don’t have time to write tests and we have QA team which will do testing for us! Indeed, at the beginning writing tests for the features can slow us down. And nowadays there are various opinionated frameworks which enable us to quickly create apps, features and present to users which will work fine at the beginning. And Product owners and managers usually are happy with this as they can deliver features to the end users in a very fast manner.&lt;/p&gt;
 
-&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 2.&lt;/strong&gt; Cultural disruption: identifying the Achilles’ heel.
+Once your application grows you realise that you constantly get bug reports, changing one feature implementation is having side effect on another feature, i.e. you have coupled components in a code. And suddenly your backlog is called buglog, because you have more existing feature to fix rather than to develop. At some point your application’s code is called [&lt;code class=&quot;highlighter-rouge&quot;&gt;legacy&lt;/code&gt;][https://softwareengineering.stackexchange.com/questions/94007/when-is-code-legacy/94011#94011]&lt;/p&gt;
 
-&lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Step 3.&lt;/strong&gt; Mine the cultural vanguard.
+It’s already possible that one of the engineers is writing tests before actually implementing code of the feature. It is very important to support these type of engineers by providing them enough time and reasonable freedom and turning them into cultural vanguard. &lt;a href=&quot;https://hbr.org/2020/03/productive-innovation?ab=hero-main-text#building-a-culture-of-experimentation&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Culture of experimentation&lt;/code&gt;&lt;/a&gt; can be one of the ways to find vanguard of changes.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 4.&lt;/strong&gt; Create an idealogy that challenges the Achilles’s heel
+Cultural vanguards are great source of idealogy. Their experience and input can be used to set up new practices and standards. For instance, they can organize demos, knowledge sharing sessions, etc to explain how TDD approach enforces to have decoupled code design which will enable application’s extensibility and scalability.
+I am not going to dive into manual vs automation testing topic, but one of the well known limitations of manual testing are human errors, testing time, etc.&lt;br /&gt;
+Therefore, decoupled code which enables high standard code, automated testing which makes testing very fast and reliable, can be base idealogy which challenges Achilles’s heel of manual testing. And leaders should do a hard work to ensure that everyone understands &lt;strong&gt;why&lt;/strong&gt; new set up makes sense and how it will affect overall development process.&lt;/p&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/culture_change.png&quot; alt=&quot;Cultural change framework&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.&lt;/p&gt;
+&lt;p&gt;It’s very important to have defined and clearly communicated and agreed ideology, values, standards and principles. For instance: keep our city clean, only accept code changes with tests coverage, etc. Once people are convinced and truly believe they will follow this culture and even start advocating it.&lt;/p&gt;
 
-&lt;p&gt;Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
+&lt;p&gt;My conclusion is that there are things you can never achieve without having them as part of the culture. Rules and laws can assist, but never be a single pilar. Education and motivation(coaching, guiding, transparency, etc) hand by hand can really be tools for achieving cultural changes. And it’s not one night project. As a leader you have to repeat, observe, learn and repeat again.&lt;/p&gt;
 
-&lt;h3 id=&quot;some-great-subheading-h3-1&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This quote will &lt;em&gt;change&lt;/em&gt; your life. It will reveal the &lt;i&gt;secrets&lt;/i&gt; of the universe, and all the wonders of humanity. Don’t &lt;em&gt;misuse&lt;/em&gt; it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.&lt;/p&gt;
-
-&lt;h3 id=&quot;some-great-subheading-h3-2&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
-
-&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello, World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;you-might-want-a-sub-subheading-h4&quot;&gt;You might want a sub-subheading (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h4 id=&quot;but-its-probably-overkill-h4&quot;&gt;But it’s probably overkill (h4)&lt;/h4&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h5 id=&quot;could-be-a-smaller-sub-heading-pacman-h5&quot;&gt;Could be a smaller sub-heading, &lt;code class=&quot;highlighter-rouge&quot;&gt;pacman&lt;/code&gt; (h5)&lt;/h5&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h6 id=&quot;small-yet-significant-sub-heading--h6&quot;&gt;Small yet significant sub-heading  (h6)&lt;/h6&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
-
-&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;First item, yo&lt;/li&gt;
-  &lt;li&gt;Second item, dawg&lt;/li&gt;
-  &lt;li&gt;Third item, what what?!&lt;/li&gt;
-  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;headings-are-cool-h2&quot;&gt;Headings are cool! (h2)&lt;/h2&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td&gt;lorem ipsum&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet&lt;/td&gt;
-      &lt;td&gt;lorem ipsum dolor sit amet consectetur&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>[&quot;Bart Simpson&quot;, &quot;Nelson Mandela Muntz&quot;]</name></author><category term="junk" /><category term="markdown" /><category term="css" /><category term="html" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</summary></entry><entry><title type="html">Task Item List</title><link href="http://localhost:4000/2016/01/11/task-item-list.html" rel="alternate" type="text/html" title="Task Item List" /><published>2016-01-11T00:00:00+01:00</published><updated>2016-01-11T00:00:00+01:00</updated><id>http://localhost:4000/2016/01/11/task-item-list</id><content type="html" xml:base="http://localhost:4000/2016/01/11/task-item-list.html">&lt;p&gt;This post tests the style of a task item list.&lt;/p&gt;
-
-&lt;p&gt;Source:&lt;/p&gt;
-
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; [x] Eating
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; [ ] Walking
-&lt;span class=&quot;p&quot;&gt;  -&lt;/span&gt; [ ] Running
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; [ ] Sleeping
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Rendered:&lt;/p&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Eating&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Walking
-    &lt;ul class=&quot;task-list&quot;&gt;
-      &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Running&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Sleeping&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ohanyan Davit</name></author><category term="to-do list" /><summary type="html">This post tests the style of a task item list.</summary></entry></feed>
+&lt;h1 id=&quot;some-references&quot;&gt;Some References&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://hbr.org/2015/12/what-is-disruptive-innovation&quot;&gt;Disruptive Innovation&lt;/a&gt;
+&lt;a href=&quot;https://hbr.org/2020/03/productive-innovation?ab=hero-main-text#building-a-culture-of-experimentation&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Culture of experimentation&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Davit Ohanyan</name></author><category term="Culture" /><category term="Team Culture" /><summary type="html">I was driving to supermarket and while waiting under traffic light noticed that someone threw cigaret from the van. By approaching a bit closer I noticed that the van belonged to the company which was responsible for keeping city clean! I was really shocked: how can one do actions which are completely opposite to her professions’ principles; in this case keeping the city clean. In a world of software development, coding standards, test coverage and team’s disciplinary should be part of company’s, or at least part of the team’s culture.</summary></entry></feed>

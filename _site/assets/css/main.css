@@ -441,9 +441,9 @@ table {
 /**
  * Task item list
  */
-ul.task-list li {
+ul.company-culture li {
   list-style-type: none; }
-  ul.task-list li .task-list-item-checkbox {
+  ul.company-culture li .company-culture-item-checkbox {
     margin: 0 .2em .25em -1.6em;
     vertical-align: middle; }
 
