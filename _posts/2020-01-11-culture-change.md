@@ -30,5 +30,6 @@ It's very important to have clearly communicated and agreed ideology, values, st
 My conclusion is that there are things you can never achieve without having them as part of the culture. Rules and laws can assist, but never be a single pillar. Education and motivation(coaching, guiding, transparency, etc) hand by hand can be really  tools for achieving cultural changes. And it's not a one night project. As a leader you have to repeat, observe, learn and repeat again. Once engineers are convinced and truly believe they will follow this culture and even start advocating it.
 
 # Some References.
-[Disruptive Innovation](https://hbr.org/2015/12/what-is-disruptive-innovation)
-[`Culture of experimentation`](https://hbr.org/2020/03/productive-innovation?ab=hero-main-text#building-a-culture-of-experimentation)
+- [`Disruptive Innovation`](https://hbr.org/2015/12/what-is-disruptive-innovation)
+
+- [`Culture of experimentation`](https://hbr.org/2020/03/productive-innovation?ab=hero-main-text#building-a-culture-of-experimentation)
