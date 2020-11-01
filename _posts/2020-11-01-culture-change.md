@@ -12,7 +12,7 @@ Below I am going to present a framework how to make automated testing as part of
 __*Step 1. The first step is to deconstruct existing approach/culture.*__  
 Particularly, when engineers don't write tests usually they say we don't have time to write tests and we have QA team which will do testing for us! Indeed, at the beginning writing tests for the features can slow us down. And nowadays there are various opinionated frameworks which enable us to quickly create apps, features and present to users without automated testing. In the same time product managers usually are happy with this as they can deliver features to the end users in a very fast manner in initial phases.
 
-__*Step 4. Create an ideology that challenges the Achilles's heel.*__  
+__*Step 2. Cultural disruption: identifying the Achilles' heel.*__  
 As soon as the application grows bugs are constantly reported, changing one feature implementation has side effects on another feature, i.e. components are coupled in the code. Suddenly a backlog is called buglog, because there are more existing features to fix rather than to develop. At some point due to lacking of automated testing application's code is called [`legacy`](https://softwareengineering.stackexchange.com/questions/94007/when-is-code-legacy/94011#94011).
 
 __*Step 3. Mine the cultural vanguard.*__  
