@@ -2,7 +2,6 @@
 layout: post
 title: Integrating automated testing into the company's culture
 author: Davit Ohanyan
-tags: [Culture, Team Culture]
 ---
 
 I was driving to the supermarket and while waiting under a traffic light noticed that someone threw a cigarette from the van. By approaching a bit closer I noticed that the van belonged to the company which was responsible for keeping the city clean!
@@ -31,5 +30,4 @@ My conclusion is that there are things you can never achieve without having them
 
 # Some References.
 - [`Disruptive Innovation`](https://hbr.org/2015/12/what-is-disruptive-innovation)
-
 - [`Culture of experimentation`](https://hbr.org/2020/03/productive-innovation?ab=hero-main-text#building-a-culture-of-experimentation)
