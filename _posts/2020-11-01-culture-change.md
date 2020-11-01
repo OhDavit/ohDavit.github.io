@@ -5,8 +5,8 @@ author: Davit Ohanyan
 ---
 
 I was driving to the supermarket and while waiting under a traffic light noticed that someone threw a cigarette from the van. By approaching a bit closer I noticed that the van belonged to the company which was responsible for keeping the city clean!
-I was really shocked: how one can do actions which are completely opposite to the company's mission she is the part of'; in this case keeping the city clean.
-This is a clear sign that laws only are not always sufficient, rather actions and behaviors should be part of the social habit, i.e. culture. Similarly, in the world of software development there are problems which can be solved way more efficiently in a cultural way.
+I was really shocked: how one can do actions which are completely opposite to the company's mission she is the part of; in this case keeping the city clean.  
+This is a clear sign that laws only are not always sufficient, rather actions and behaviors should be part of the social habit, i.e. culture. Similarly, in the world of software development there are problems which can be solved way more efficiently in a cultural way.  
 Below I am going to present a framework how to make automated testing as part of the team culture. Please note that automated testing topic is just an example here and the framework can be used for other topics/ideas as well.
 
 __*Step 1. The first step is to deconstruct existing approach/culture.*__  
